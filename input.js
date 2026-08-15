@@ -1,4 +1,5 @@
 /**
+
  * cron "1 6,12 * * *" JingZhou.js
  * export JingZhou="账号1&密码1 账号2&密码2"
  */
